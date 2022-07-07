@@ -1,0 +1,1 @@
+# jest-vee-validate-rules

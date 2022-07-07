@@ -1,0 +1,13 @@
+{
+  "semi": true,
+  "singleQuote": true,
+  "htmlWhitespaceSensitivity": "strict",
+  "overrides": [
+    {
+      "files": ["**/*.yml"],
+      "options": {
+        "singleQuote": false
+      }
+    }
+  ]
+}
